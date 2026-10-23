@@ -1,6 +1,6 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Osuna Monarrez Aldahir
-; Horario: [Tu horario]
+; Horario: 8-9
 ; Docente: Dr. José Luis Medina Jiménez
 ; Práctica: Comparacion y pruebas
 ; Descripción: Programa que muestra como las intrucciones cmp, add y test afectan las
