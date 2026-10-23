@@ -1,6 +1,6 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Osuna Monarrez Aldahir
-; Horario: [Tu horario]
+; Horario: 8-9
 ; Docente: Dr. José Luis Medina Jiménez
 ; Práctica: Mayor, menor o igual con entrada al usuario
 ; Descripción: Codigo que pide 2 numeros al usuario para mostrar si 
