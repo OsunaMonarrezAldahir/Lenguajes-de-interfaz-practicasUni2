@@ -1,6 +1,6 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Osuna Monarrez Aldahir
-; Horario: [Tu horario]
+; Horario: 8-9
 ; Docente: Dr. José Luis Medina Jiménez
 ; Práctica: Saltos
 ; Descripción: Compara dos numeros en este caso 10/10 usando cmp con un salto 
