@@ -7,4 +7,4 @@
 * **Horario:** [8-9]
 * **Docente:** Dr. José Luis Medina Jiménez
 
-*(Los enlaces a las prácticas se agregarán conforme se suban los archivos)*
+
